@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/**
+*.py[cod]
+*$py.class
+
+env/
+profiles/__pycache__/
+wac_api/__pycache__/
+*.pyc
